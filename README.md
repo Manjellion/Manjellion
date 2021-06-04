@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manjellion
+- 👋 Hi, I’m @Manjil
 - 👀 I’m interested in anything I like
 
 - 🌱 I’m currently learning JavaScript 
