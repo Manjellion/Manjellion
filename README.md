@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manjellion
-- 👀 I’m interested in playing video games and building websites and small programs that follow simple insurrections for fun
+- 👀 I’m interested in anything I like
 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on any open projects 
