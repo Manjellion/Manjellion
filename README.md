@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manjil
 - 👀 I’m interested in anything I like
 
-- 🌱 I’m currently learning JavaScript and Cloud Computing 
+- 🌱 I’m currently reading Clean Code
 - 💞️ I’m looking to collaborate on any open projects 
 - 📫 How to reach me via email
 
