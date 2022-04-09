@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a student.
 
-- 🌱 I’m currently learning Laravel (XD) & Cloud Computing (Specifically AWS Amplify)
+- 🌱 I’m currently learning Frameworks for PHP - Laravel (XD), also Spring Boot for Java, & also learning Cloud Computing (Specifically AWS Amplify)
 - 🥅 2022 Goals: Learn more about cloud computing and its effect on web & mobile applications. 
 - ⚡ Fun fact: I love to draw, play games and go to the gym 🏋️
 
