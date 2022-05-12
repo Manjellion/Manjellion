@@ -2,9 +2,9 @@
 
 ## I'm a Developer and a student.
 
-- 🌱 I’m currently learning Spring Boot Framework for Java to increase my productivity when coding, & also learning AWS Cloud Computing (Specifically AWS Amplify).
+- 🌱 I’m currently learning React native & also learning AWS Cloud Computing (Specifically AWS Amplify).
 - 🥅 2022 Goals: Learn more about cloud computing and its effect on web & mobile applications, eat healthier and read more.
-- ⚡ Fun fact: I love to draw, play games and go to the gym 🏋️.
+- ⚡ Fun fact: I love to draw and playing games.
 
 
 ### Connect with me:
