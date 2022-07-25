@@ -3,7 +3,7 @@
 ## I'm a Developer and a student.
 
 - 🌱 I’m currently learning React native & also learning AWS Cloud Computing (Specifically AWS Amplify, Lambda functions, API Gateway and DynamoDB services and Tools).
-- 🥅 2022 Goals: Learn more about cloud computing and its effect on web & mobile applications, eat healthier and read more.
+- 🥅 2022 Goals: Learn more about cloud computing and getting that CLF-C01 certificate and learn its effect on web & mobile applications, eat healthier and read more.
 - ⚡ Fun fact: I love to draw and playing games.
 
 
