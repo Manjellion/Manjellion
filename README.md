@@ -2,7 +2,7 @@
 
 ## I'm a Developer and a student.
 
-- 🌱 I’m currently learning Flutter & also studying for the AWS Cloud Practitioner Certificate.
+- 🌱 I’m currently learning Moible App Dev with AWS Amplify & also studying for the AWS Cloud Practitioner Certificate.
 - 🥅 2022 Goals: Learn more about cloud computing and getting that CLF-C01 certificate and learn its effect on web & mobile applications, eat healthier and read more.
 - ⚡ Fun fact: I love to draw and playing games.
 
