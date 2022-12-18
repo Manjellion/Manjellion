@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Moible App Dev with AWS Amplify & also studying for the AWS Cloud Practitioner Certificate.
 - 🥅 2022 Goals: Learn more about cloud computing and getting that CLF-C01 certificate and learn its effect on web & mobile applications, eat healthier and read more.
-- ⚡ Fun fact: I love to draw, LOTR, GOT, SW and going gym.
+- ⚡ Fun fact: I love to draw, LOTR, GOT, SW.
 
 
 ### Connect with me:
