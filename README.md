@@ -2,9 +2,9 @@
 
 ## I'm a Developer and a student.
 
-- 🌱 I’m currently learning Moible App Dev with AWS Amplify & also studying for the AWS Cloud Practitioner Certificate.
-- 🥅 2022 Goals: Learn more about cloud computing and getting that CLF-C01 certificate and learn its effect on web & mobile applications, eat healthier and read more.
-- ⚡ Fun fact: I love to draw, LOTR, GOT, SW.
+- 🌱 I’m currently doing my final year project for Uni.
+- 🥅 2023 Goals: Advance my knowledge in frontend development, learn intreactions with deep backend
+- ⚡ Fun fact: I love to draw and play video games and huge fan of LOTR, GOT, SW.
 
 
 ### Connect with me:
