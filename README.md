@@ -19,6 +19,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="80px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="80px" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" style="padding-right: 10px;" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/344/amazon-web-services.png" style="padding-right: 10px;" />
