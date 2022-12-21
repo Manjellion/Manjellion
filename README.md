@@ -3,7 +3,7 @@
 ## I'm a Developer and a student.
 
 - 🌱 I’m currently doing my final year project for Uni.
-- 🥅 2023 Goals: Advance my knowledge in frontend development, learn intreactions with deep backend
+- 🥅 2023 Goals: Advance my knowledge in cloud computing for web development
 - ⚡ Fun fact: I love to draw and play video games and huge fan of LOTR, GOT, SW.
 
 
