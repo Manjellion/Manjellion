@@ -10,7 +10,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/manjil-ghale-415b30195/" target="_blank">LinkedIn</a>
-<br>
+<br />
 
 ### Languages and Tools:
 
