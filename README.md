@@ -3,7 +3,7 @@
 ## I'm a Developer and a student.
 
 - 🌱 I’m currently doing my final year project for Uni.
-- 🥅 2023 Goals: Begin my career in the tech industry, Advance my knowledge in cloud computing for web development
+- 🥅 2023 Goals: Start my career in the tech industry, Advance my knowledge in cloud computing for web development
 - ⚡ Fun fact: I love to draw and play video games and huge fan of LOTR, GOT, SW.
 
 
