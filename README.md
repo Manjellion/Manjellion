@@ -6,12 +6,6 @@
 - 🥅 2023 Goals: Start my career in the tech industry, Advance my knowledge in cloud computing for web development
 - ⚡ Fun fact: I love to draw and play video games and huge fan of LOTR, GOT, SW.
 
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/manjil-ghale-415b30195/" target="_blank">LinkedIn</a>
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
