@@ -2,7 +2,7 @@
 
 ## I'm a Junior Web Developer.
 
-- 🌱 I’m currently starting my career in development.
+- 🌱 I’m currently starting my career in web development.
 - 🥅 2023 Goals: Start my career in the tech industry, Advance my knowledge in cloud computing for web development
 - ⚡ Fun fact: I love to draw and play video games and huge fan of LOTR, GOT, SW.
 
